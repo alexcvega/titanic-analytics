@@ -3,6 +3,8 @@ Titanic Survival Prediction: End-to-End ML Pipeline
 Advanced Data Analytics & Model Calibration
 
 This project is an approach to the Titanic survival classification problem. It goes beyond simple model fitting to implement production-grade pipelines, imbalanced class handling (SMOTE), and probability calibration.
+
+
  Key Features
 
     Automated Data Preprocessing: Integrated ColumnTransformer for handling numerical (scaling) and categorical (OneHotEncoding) data within a unified pipeline.
